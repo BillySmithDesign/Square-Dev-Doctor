@@ -1,3 +1,5 @@
+![Square Dev Doctor](public/og-squaredevdoctor.png)
+
 # SquareDevDoctor
 
 SquareDevDoctor is an open-source monitoring console for Square developer environments. Connect a Square Sandbox or Production environment to inspect API authentication, catalog access, request latency, optional Vercel deployment context, and redacted webhook activity from one focused interface.
